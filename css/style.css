@@ -1,0 +1,136 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.img1{
+    background-image: url(../img/header1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+.img1 .name{
+    text-align: center; letter-spacing: 5px;
+    padding-top: 100px;
+    font-family: Georgia, 'Times New Roman', Times, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  #headleft{
+    float: right;
+  }
+  .message {
+    text-align: center;
+    margin-top: 100px;
+  }
+  /* for registrtion  */
+  .form{
+    background-image: url(../img/header.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+  }
+  .box1{
+    background-color: rgb(149, 144, 144);
+    height: 200px;
+    width: 350px;
+    padding-top: 200px;
+    position: relative;
+    top: 100px;
+    float: right;
+    right: 150px;
+    border-radius: 3%;
+    box-shadow: 3px 3px 25px -1px;
+    background: transparent;
+  }
+  .box2{
+    position: relative;
+    bottom: 150px;
+  }
+  .box3{
+    position: relative;
+    
+    margin-top: 50px;
+    margin-left: 50px;
+  }
+  button a{
+    text-decoration: none;
+  }
+
+  button {
+    margin-left: 100px;
+    
+    height: 30px;
+    width: 80px;
+    border: none;
+    border:  1px solid;
+  }
+  button:hover{
+    background-color: yellow;
+  }
+
+  /* end registration page */
+  
+  .boxs1{
+    background-color: yellow;
+    height: 600px;
+  }
+  .boxs2{
+    background-color: white;
+    height: 350px;
+    width: 350px;
+    position: absolute;
+    top: 150px;
+    left: 500px;
+    background: transparent;
+    box-shadow: 1px 2px 10px -1px;
+    border-radius: 3%;
+
+  }
+  .boxs2 h1{
+    text-align: center;
+    margin-top: 50px;
+  }
+  .message{
+    position: relative;
+    bottom: 40px;
+  }
+  button a{
+    text-decoration: none;
+    color: black;
+  }
+  button{
+    margin-right: 90px;
+    margin-top: 30px;
+
+  }
+  button:hover{
+    background-color: yellow;
+  }
+
+
+  
